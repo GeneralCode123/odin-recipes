@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.menu-links {
+    text-align: center;
+    padding: 10px;
+}
+
+.menu-links a {
+    background-color: lightgray;
+    padding: 5px 10px;
+    text-decoration: none;
+    color: black;
+}
